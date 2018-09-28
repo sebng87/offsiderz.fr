@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'offsiderz';
+  src:  url('fonts/offsiderz.eot?adoh3j');
+  src:  url('fonts/offsiderz.eot?adoh3j#iefix') format('embedded-opentype'),
+    url('fonts/offsiderz.ttf?adoh3j') format('truetype'),
+    url('fonts/offsiderz.woff?adoh3j') format('woff'),
+    url('fonts/offsiderz.svg?adoh3j#offsiderz') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'offsiderz' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-right:before {
+  content: "\e90c";
+}
+.icon-loader:before {
+  content: "\e90b";
+}
+.icon-minus:before {
+  content: "\e908";
+}
+.icon-plus:before {
+  content: "\e909";
+}
+.icon-danger:before {
+  content: "\e903";
+}
+.icon-info:before {
+  content: "\e904";
+}
+.icon-chevron-down:before {
+  content: "\e313";
+}
+.icon-chevron-left:before {
+  content: "\e314";
+}
+.icon-chevron-right:before {
+  content: "\e315";
+}
+.icon-chevron-up:before {
+  content: "\e316";
+}
+.icon-profil:before {
+  content: "\e7fd";
+}
+.icon-close:before {
+  content: "\e5cd";
+}
+.icon-success:before {
+  content: "\e905";
+}
+.icon-youtube:before {
+  content: "\e90e";
+}
+.icon-instagram:before {
+  content: "\e90d";
+}
+.icon-check:before {
+  content: "\e90a";
+}
+.icon-checkbox-unchecked:before {
+  content: "\e906";
+}
+.icon-checkbox-checked:before {
+  content: "\e907";
+}
+.icon-phone:before {
+  content: "\e902";
+}
+.icon-search:before {
+  content: "\f02e";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-paypal:before {
+  content: "\ead8";
+}
+.icon-credit-card:before {
+  content: "\e900";
+}
+.icon-home:before {
+  content: "\e901";
+}
